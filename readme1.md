@@ -1,6 +1,7 @@
-## Heyo Everyone Welcome To My git
-guide
+## Welcome To Git!
+
+
 -yo,Johny Here!
 
-- I'm Adding this from 
-- git 'feature-branch'
+- This is Coming From 'dev-Frank' 
+- I'm Adding This From git 'feature-branch'
